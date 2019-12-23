@@ -7,8 +7,8 @@
 body {
   display: flex;
   flex-direction: column;
-  font-family: 'Montserrat', sans-serif;
-  background: #000000;
+  font-family: 'Circular Std Book', sans-serif;
+  background: #ffffff;
   align-items: center;
   min-width: 100vw;
   min-height: 100vh;
@@ -31,7 +31,7 @@ body {
   transition: border-radius .25s ease-out .075s;
 }
 .bubble.left {
-  background: #424242;
+  background: #F9F9FA;
 }
 .bubble:after {
   background-size: .5rem .5rem;
@@ -58,7 +58,7 @@ body {
   opacity: 0;
 }
 .bubble a {
-  color: #3E50B4;
+  color: #e84393;
 }
 .bubble .loading {
   position: absolute;
@@ -68,7 +68,7 @@ body {
 }
 .bubble .loading b {
   display: inline-block;
-  color: #ffffff;
+  color: #b2bec3;
 }
 @media (min-width: 600px) 
 { :root { font-size: 1.8rem; } }
