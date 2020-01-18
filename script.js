@@ -20,9 +20,10 @@ window.onload = function() {
     'Well, Hello There',
     'My name is Madhav Sharma',
     'And I\'m a sixteen year-old student from New Delhi, India',
-    '...who does quizzing and is deeply in 💖 with Machine Learning.',
-    'I\'m currently working on the Business Plan of our Conrad Challenge Product: <a target="_blank" href="https://zytabinc.github.io">ZyTab.</a> 🚀',
-    'See my Machine Learning work and other endeavours on <a target="_blank" href="https://github.com/pseudocodenerd">GitHub</a> or on <a target="_blank" href="https://www.kaggle.com/sharmadhav">Kaggle</a>',
+    '...who does quizzing and programming and is deeply in 💖 with Machine Learning.',
+    'I\'m currently participating in Google Code-In for the <a target="_blank" href="https://julialang.org/">Julia Programming Language</a>',
+    'where I\m on the <a target="_blank" href="https://codein.withgoogle.com/organizations/the-julia-programming-language/">leaderboard.</a> 🙃',
+    'See my work on <a target="_blank" href="https://github.com/pseudocodenerd">GitHub</a> or on <a target="_blank" href="https://www.kaggle.com/sharmadhav">Kaggle</a>',
     'If you\'d like to get in touch, feel free to <a href="mailto:talktosharmadhav@gmail.com">email</a> me.',
     getTime(),
     '🖖 <i>Cheerio!</i>'
